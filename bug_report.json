@@ -4,8 +4,8 @@
 "OS":"Windows 10 Pro",
 "Connection type":"WiFi",
 "Reproducibility Rate":"3"],
-"Steps to Reproduce":
-"Expected Result":
-"Actual Result":
+"Steps to Reproduce":["1":"Open https://enholding.ru/","2":"Scroll to show footer"],
+"Expected Result":"Background design with smooth transitions",
+"Actual Result":"Around the light switch there is a sharp transition to the rest of the background and the line separating the basement changes its thickness abruptly"
 "Proof":
 "Severity/Priority":"High/Critical"
