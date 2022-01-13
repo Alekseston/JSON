@@ -1,11 +1,13 @@
 {
 "Title":"",
 "Environment":["Device":"Laptop Lenovo 13s-IWL",
-"OS":"Windows 10 Pro",
+"OS":"Windows 10 Pro x64",
 "Connection type":"WiFi",
+"Browser":"Chrome 97.0.4692.71 64bit",
 "Reproducibility Rate":"3"],
 "Steps to Reproduce":["1":"Open https://enholding.ru/","2":"Scroll to show footer"],
 "Expected Result":"Background design with smooth transitions",
-"Actual Result":"Around the light switch there is a sharp transition to the rest of the background and the line separating the basement changes its thickness abruptly"
-"Proof":
-"Severity/Priority":"High/Critical"
+"Actual Result":"Around the light switch there is a sharp transition to the rest of the background and the line separating the basement changes its thickness abruptly",
+"Proof":"https://github.com/Alekseston/PNG/blob/38d19246200a7ce572593b4afad887a5e7b5a243/screenshot-enholding.ru-2022.01.13-10_36_38.png",
+"Severity/Priority":"Medium"
+}
